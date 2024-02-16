@@ -11,7 +11,7 @@ Avant de commencer, assurez-vous que les outils suivants sont installés et >
 - Minikube: Un outil qui permet de lancer un cluster Kubernetes localement.
 
 
-##Configuration
+## Configuration
 
 ### Démarrage de Minikube
 - Lancez Minikube pour créer un cluster local
